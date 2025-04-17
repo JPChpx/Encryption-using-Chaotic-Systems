@@ -1,3 +1,8 @@
+/// Code by JP Champeaux (2025)
+/// jpc@irsamc.ups-tlse.fr   
+/// free to use for academic / non commercial purpose 
+/// please refere to author if use
+
 #include <iostream>
 #include <complex>
 #include <string>
