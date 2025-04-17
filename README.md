@@ -3,8 +3,9 @@
 
 > A chaotic, Mandelbrot-based encoding/decoding tool written in modern C++.  
 > Inspired by mathematical beauty and cryptographic fun.
-> coded by J.-P. Champeaux (jpc@irsamc.ups-tlse.fr)
-> free to use for academic / non commercial purpose - please refere to author if used.
+
+coded by J.-P. Champeaux (jpc@irsamc.ups-tlse.fr)
+free to use for academic / non commercial purpose - please refere to author if used.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![Status](https://img.shields.io/badge/status-stable-green) ![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
 
